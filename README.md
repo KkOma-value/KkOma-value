@@ -1,7 +1,5 @@
 # Hi there, I'm Joseph! 👋
 
-![Uploading 和服.jpg…]()
-
 A playful coder with **2 years** of coding adventures — mostly wandering through the Java jungle 🌱, but also dabbling in other languages along the way.
 
 I love building little toys and sharing them here. They might be small, but each one is made with lots of curiosity and a bit of magic ✨.
