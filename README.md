@@ -1,4 +1,5 @@
-# Hi there, I'm Joseph! 👋
+# Hi there, I'm Joseph! 👋![Uploading a3adb95672fccb7b1f553f927937f06c.jpg…]()
+
 
 A playful coder with **2 years** of coding adventures — mostly wandering through the Java jungle 🌱, but also dabbling in other languages along the way.
 
