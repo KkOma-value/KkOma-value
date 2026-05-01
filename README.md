@@ -1,57 +1,60 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Joseph!+%F0%9F%91%8B;Full-Stack+Adventurer+%E2%9A%94%EF%B8%8F;AI+App+Enthusiast+%F0%9F%A4%96;Coffee+to+Code+Converter+%E2%98%95" alt="Typing SVG" />
+</div>
 
-# Hi there, I'm **Joseph**! 👋
-
-A playful coder on a **2-year** coding adventure. My journey started in the **Java jungle** 🌱, but I quickly found a second home in the **Python world** 🐍. Lately, I’ve been wandering beyond, exploring new lands and picking up new skills along the way.
-
-I love building little digital toys and sharing them here. They might be small, but each one carries curiosity, a bit of logic, and a sprinkle of magic ✨.
+<div align="center">
+  <em>A playful coder on a 2-year coding adventure, growing one commit at a time. 🚀</em>
+</div>
 
 ---
+
+### 👨‍💻 About Me
+
+- 🌱 **Current Focus:** Deep diving into **Node.js** & **Next.js** to conquer the full-stack world.
+- 🤖 **Current Obsession:** **AI Application Development** – building end-to-end solutions that are both robust and intelligent.
+- 💬 **Ask me about:** Java, Python, and how to turn coffee into bugs 🐞 (and sometimes working code).
+- ⚡ **Fun fact:** I believe AI will soon write my READMEs for me... wait, is it already? 👀
+- 📫 **How to reach me:** [lijinhang460@gmail.com](mailto:lijinhang460@gmail.com)
 
 ### 🛠️ Tech Playground
 
-*   **Main Quests:** Java & Python (can't pick just one!)
-*   **Active Side Quests:** Actively learning **Node.js** & **Next.js** to conquer the full-stack world.
-*   **Current Obsession:** AI Application Development 🤖 – because what's cooler than smart apps?
-*   **Dream Goal:** To become a versatile **Full-Stack Engineer** with a powerful AI skillset, building end-to-end solutions that are both robust and intelligent.
+**Main Quests:**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,git,docker&perline=10" />
+</a>
 
----
+<br/>
+
+**Active Side Quests (Learning):**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react&perline=10" />
+</a>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KkOma-value&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Joseph's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KkOma-value&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150"/>
+</div>
 
 ### 🧪 What You’ll Find Here
-
-*   Fun little projects 🎮🪀
-*   Experiments with AI integrations (trying to make things “smart”)
-*   Code that sometimes works on the first try (usually not 😅)
-*   A curious developer growing one commit at a time 🚧
-
----
-
-### 🌱 Currently
-
-*   Sharpening my **Python** skills for AI and backend synergy.
-*   Diving deep into **Node.js** and **Next.js** to connect the dots between frontend and backend.
-*   Exploring AI APIs, ML models, and how to weave them into full-stack applications.
-*   Learning from awesome devs and hoping to meet more cool people who love tech 🙌
-
----
-
-### 💡 Fun Facts
-
-*   I believe AI will soon write my READMEs for me (wait… is it already? 👀)
-*   I turn coffee ☕ into code… and sometimes into bugs 🐞
-*   If I’m not coding, I’m probably daydreaming about system architecture… or database indexing 😆
-
----
+- Fun little projects 🎮🪀
+- Experiments with AI integrations (trying to make things “smart”)
+- Code that sometimes works on the first try (usually not 😅)
 
 ### 📫 Let's Connect!
 
-Always open to collaborations, feedback, or just a good chat about code!
+<div align="center">
+  <a href="mailto:lijinhang460@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/KkOma-value">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-*   **Email:** [lijinhang460@gmail.com](mailto:lijinhang460@gmail.com)
-
-*“Maybe the real AI was the friends we made along the way.”* 😄
-
----
-
-⭐ *From Joseph, chasing the dream to become a Full-Stack legend (with a robotic sidekick).*
-
----
+<br/>
+<div align="center">
+  <em>“Maybe the real AI was the friends we made along the way.” 😄</em><br/>
+  <b>⭐ From Joseph, chasing the dream to become a Full-Stack legend (with a robotic sidekick).</b>
+</div>
