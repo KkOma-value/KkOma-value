@@ -30,17 +30,14 @@
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react&perline=10" />
 </a>
 
-### 📊 GitHub Stats
+### 🌟 Featured Project: Lovemaster
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KkOma-value&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Joseph's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KkOma-value&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150"/>
-</div>
+> **[Lovemaster](https://github.com/KkOma-value/Lovemaster)** is my primary focus right now! It's an AI-driven application exploring smart integrations and full-stack architecture. If you're interested in AI application development, definitely check it out.
 
 ### 🧪 What You’ll Find Here
-- Fun little projects 🎮🪀
-- Experiments with AI integrations (trying to make things “smart”)
-- Code that sometimes works on the first try (usually not 😅)
+- 💖 **Lovemaster** and other fun little projects 🎮🪀
+- 🤖 Experiments with AI integrations (trying to make things “smart”)
+- 🚧 Code that sometimes works on the first try (usually not 😅)
 
 ### 📫 Let's Connect!
 
