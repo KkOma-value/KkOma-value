@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 180" width="680" height="180" role="img" aria-labelledby="pipeTitle pipeDesc">
+  <title id="pipeTitle">Mirage Agent Harness Pipeline Architecture</title>
+  <desc id="pipeDesc">Signal pipeline showing Claude Code, Codex, Antigravity, and pi passing through Mirage scheduling, context compaction, permission gate, and verification loop.</desc>
+
+  <defs>
+    <!-- Background grid pattern -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="10" cy="10" r="0.8" fill="#21262d" />
+    </pattern>
+    <!-- Gradients -->
+    <linearGradient id="amberGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e0a458" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#e0a458" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Container -->
+  <rect x="0.5" y="0.5" width="679" height="179" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="678" height="178" rx="9" fill="url(#grid)"/>
+
+  <!-- Section Header -->
+  <text x="24" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5" fill="#7d8590" letter-spacing="0.5">ARCHITECTURE : MIRAGE HARNESS PIPELINE</text>
+
+  <!-- Pipeline Paths -->
+  <!-- Agent 1 to Mirage -->
+  <path id="path1" d="M 150 56 C 185 56, 205 90, 240 90" fill="none" stroke="#21262d" stroke-width="1.8"/>
+  <!-- Agent 2 to Mirage -->
+  <path id="path2" d="M 150 78 C 185 78, 205 90, 240 90" fill="none" stroke="#21262d" stroke-width="1.8"/>
+  <!-- Agent 3 to Mirage -->
+  <path id="path3" d="M 150 102 C 185 102, 205 90, 240 90" fill="none" stroke="#21262d" stroke-width="1.8"/>
+  <!-- Agent 4 to Mirage -->
+  <path id="path4" d="M 150 124 C 185 124, 205 90, 240 90" fill="none" stroke="#21262d" stroke-width="1.8"/>
+
+  <!-- Mirage internal path to Gate -->
+  <path id="pathCore1" d="M 350 90 L 400 90" fill="none" stroke="#30363d" stroke-width="2"/>
+  <!-- Gate to Verify -->
+  <path id="pathCore2" d="M 480 90 L 530 90" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Animated Pulses along paths -->
+  <circle r="3" fill="#e0a458">
+    <animateMotion dur="2.4s" repeatCount="indefinite" path="M 150 56 C 185 56, 205 90, 240 90" />
+  </circle>
+  <circle r="3" fill="#e0a458">
+    <animateMotion dur="2.8s" begin="0.7s" repeatCount="indefinite" path="M 150 78 C 185 78, 205 90, 240 90" />
+  </circle>
+  <circle r="3" fill="#e0a458">
+    <animateMotion dur="2.5s" begin="1.3s" repeatCount="indefinite" path="M 150 102 C 185 102, 205 90, 240 90" />
+  </circle>
+  <circle r="3" fill="#e0a458">
+    <animateMotion dur="2.6s" begin="0.3s" repeatCount="indefinite" path="M 150 124 C 185 124, 205 90, 240 90" />
+  </circle>
+
+  <!-- Pulse through Mirage Core -->
+  <circle r="3.5" fill="#3fb950">
+    <animateMotion dur="1.2s" repeatCount="indefinite" path="M 350 90 L 400 90" />
+  </circle>
+  <circle r="3.5" fill="#58a6ff">
+    <animateMotion dur="1.2s" begin="0.6s" repeatCount="indefinite" path="M 480 90 L 530 90" />
+  </circle>
+
+  <!-- Left: Agent Runtimes Column -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10.5">
+    <!-- Claude Code -->
+    <rect x="24" y="46" width="126" height="20" rx="4" fill="#161b22" stroke="#30363d"/>
+    <text x="32" y="60" fill="#c9d1d9">claude-code</text>
+    <circle cx="140" cy="56" r="2.5" fill="#d29922"/>
+
+    <!-- Codex -->
+    <rect x="24" y="68" width="126" height="20" rx="4" fill="#161b22" stroke="#30363d"/>
+    <text x="32" y="82" fill="#c9d1d9">codex</text>
+    <circle cx="140" cy="78" r="2.5" fill="#3fb950"/>
+
+    <!-- Antigravity -->
+    <rect x="24" y="90" width="126" height="20" rx="4" fill="#161b22" stroke="#30363d"/>
+    <text x="32" y="104" fill="#c9d1d9">antigravity</text>
+    <circle cx="140" cy="100" r="2.5" fill="#58a6ff"/>
+
+    <!-- pi -->
+    <rect x="24" y="112" width="126" height="20" rx="4" fill="#161b22" stroke="#e0a458" stroke-width="1.2"/>
+    <text x="32" y="126" fill="#e0a458" font-weight="600">pi [testbed]</text>
+    <circle cx="140" cy="122" r="2.5" fill="#e0a458"/>
+  </g>
+
+  <!-- Center Stage 1: Mirage Harness (Compaction & Scheduling) -->
+  <g transform="translate(240, 50)">
+    <rect x="0" y="0" width="110" height="80" rx="6" fill="#161b22" stroke="#30363d"/>
+    <text x="12" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#e6edf3" font-weight="600">Mirage Core</text>
+    <text x="12" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9" fill="#8b949e">· Tool Scheduler</text>
+    <text x="12" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9" fill="#8b949e">· Compaction 4.2x</text>
+    <text x="12" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9" fill="#8b949e">· Prompt Hygiene</text>
+  </g>
+
+  <!-- Center Stage 2: Permission Gate -->
+  <g transform="translate(400, 58)">
+    <rect x="0" y="0" width="80" height="64" rx="6" fill="#161b22" stroke="#30363d"/>
+    <text x="10" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="10" fill="#3fb950" font-weight="600">Permission</text>
+    <text x="10" y="42" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="8.5" fill="#8b949e">· Sandboxing</text>
+    <text x="10" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="8.5" fill="#8b949e">· Gate Check</text>
+  </g>
+
+  <!-- Center Stage 3: Verification Loop & Production Output -->
+  <g transform="translate(530, 50)">
+    <rect x="0" y="0" width="126" height="80" rx="6" fill="#161b22" stroke="#e0a458" stroke-width="1.2"/>
+    <text x="12" y="24" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#e0a458" font-weight="600">Verification</text>
+    <text x="12" y="44" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9" fill="#8b949e">· Error Surface</text>
+    <text x="12" y="58" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9" fill="#8b949e">· Self-Correction</text>
+    <text x="12" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9" fill="#3fb950" font-weight="600">✔ Deterministic</text>
+  </g>
+
+  <!-- Footer status pill -->
+  <text x="24" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="9.5" fill="#636e7b">
+    STATUS : 4 AGENTS COUPLING · STRICT PERMISSIONS · CONTINUOUS VERIFICATION
+  </text>
+</svg>
