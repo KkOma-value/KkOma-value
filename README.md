@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/KkOma-value">
-    <img src="assets/terminal.svg" width="580" alt="Terminal session: whoami, mirage status, harness list, mirage schedule trace" />
+    <img src="assets/terminal.svg?v=2" width="580" alt="Terminal session: whoami, mirage status, harness list, mirage schedule trace" />
   </a>
 </div>
 
@@ -20,7 +20,7 @@ unattended.
 ## harness
 
 <div align="center">
-  <img src="assets/harness-pipeline.svg" width="680" alt="Mirage Harness Pipeline Architecture" />
+  <img src="assets/harness-pipeline.svg?v=2" width="680" alt="Mirage Harness Pipeline Architecture" />
 </div>
 
 <br/>
