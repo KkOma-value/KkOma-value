@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/KkOma-value">
-    <img src="assets/terminal.svg?v=4" width="580" alt="Terminal session: whoami, mirage status, harness list, mirage schedule trace" />
+    <img src="assets/terminal-v2.svg" width="580" alt="Terminal session: whoami, mirage status, harness list, mirage schedule trace" />
   </a>
 </div>
 
