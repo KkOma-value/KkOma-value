@@ -1,10 +1,4 @@
-```
-+--------------------------------------+
-| joseph / lijinhang                   |
-| agent harness engineer at HelloBike  |
-| currently building Mirage            |
-+--------------------------------------+
-```
+<img src="assets/terminal.svg" width="440" alt="Terminal session: whoami, mirage status, harness --list" />
 
 ## now
 
