@@ -49,7 +49,7 @@
 
   <!-- Line 3: harness list -->
   <text x="22" y="162" fill="#e6edf3">$ harness list</text>
-  <text x="22" y="184" fill="#8b949e">claude-code   codex   antigravity   <tspan fill="#e0a458" font-weight="600">pi</tspan></text>
+  <text x="22" y="184" fill="#8b949e">claude-code   codex   antigravity   <tspan fill="#e0a458" font-weight="600">Pi</tspan></text>
 
   <!-- Trace Panel Divider Line -->
   <line x1="22" y1="202" x2="558" y2="202" stroke="#21262d" stroke-dasharray="3 3"/>
