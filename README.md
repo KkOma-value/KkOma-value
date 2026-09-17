@@ -62,7 +62,7 @@ schedule. Most of what ends up in Mirage was a pi experiment first.
 | :--- | :--- |
 | **Agent Runtimes** | Claude Code · OpenAI Codex · Google Antigravity · pi |
 | **Core Languages** | Java · TypeScript · Python · Go |
-| **Backend & Web** | Spring · Node.js · Next.js · React |
+| **Backend & Web** | SpringBoot · Node.js · Next.js · React |
 | **Data & Infra** | MySQL · Docker · Git |
 
 ## projects
